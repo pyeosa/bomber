@@ -5,7 +5,7 @@
 <h4>sudo apt install git</h4>
 <h4>sudo apt install python3</h4>
 <h4>sudo apt install python3-pip</h4>
-<h4>sudo apt install python-requests</h4>
+<h4>sudo apt install python3-requests</h4>
 <h4>git clone https://github.com/pyeosavenus/bomber</h4>
 <h4>cd bomber</h4>
 <h4>pip install -r requirements</h4>
