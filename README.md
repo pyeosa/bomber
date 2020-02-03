@@ -9,3 +9,6 @@
 <h4>cd bomber</h4>
 <h4>pip install -r requirements</h4>
 <h4>python3 bombeR.py</h4>
+<p></p>
+<p>If you have problem with modules:</p>
+<p> pip3 install "module with the problem" </p>
