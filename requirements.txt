@@ -1,8 +1,9 @@
 requests
+colorama
 random
 datetime
 sys
 time
 argparse
 os
-colorama
+
