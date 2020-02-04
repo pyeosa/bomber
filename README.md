@@ -2,6 +2,8 @@
 <h1>Python bomber</h1>
 <h3>Installation:</h3>
 
+<h4>sudo apt update</h4>
+<h4>sudo apt upgrade</h4>
 <h4>sudo apt install git</h4>
 <h4>sudo apt install python3</h4>
 <h4>sudo apt install python3-pip</h4>
